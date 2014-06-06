@@ -1,6 +1,6 @@
 {
   "name": "flatini",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Flat ini parser (no dot notation nesting) ripped from isaacs's ini",
   "scripts": {
     "test": "tap test.js"
