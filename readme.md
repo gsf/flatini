@@ -1,5 +1,5 @@
 # flatini
-An ini parser without dot notation namespacing. Ripped from the decoding half of 
+An ini parser without dot notation nesting. Ripped from the decoding half of 
 https://github.com/isaacs/ini.
 
 ```ini
