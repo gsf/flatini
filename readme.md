@@ -16,7 +16,7 @@ arr[]=3
 ```js
 // parse-conf.js
 
-var flatini = require('./');
+var flatini = require('flatini');
 var fs = require('fs');
 
 var parsed = flatini(fs.readFileSync('inifile.conf', 'utf8'));
