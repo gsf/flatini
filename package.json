@@ -1,0 +1,13 @@
+{
+  "name": "flatini",
+  "version": "0.0.0",
+  "description": "Flat ini parser (no namespacing) ripped from isaacs's ini",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": "git://github.com/gsf/flatini.git",
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "~0.4.0"
+  }
+}
